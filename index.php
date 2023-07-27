@@ -1,7 +1,7 @@
 <html>
  <form method="POST" name="frmpost" action="">
   <table align="center" border="1" cellpadding="0" cellspacing="0"> 
-    <tr align="center"><td><h2> <b>Masukan Biodata Kalian</b></h2></td></tr>
+    <tr align="center"><td><h2> <b>Masukan Bisodata Kalian</b></h2></td></tr>
     <tr> 
       <td>
       <table width="450" border="0" cellpadding="0" cellspacing="10" align="center">
