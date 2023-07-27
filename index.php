@@ -74,5 +74,3 @@
    ?>
 </table>
 </center>
-</html>
-</html>
