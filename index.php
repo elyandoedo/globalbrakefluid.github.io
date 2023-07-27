@@ -36,6 +36,7 @@
     </tr>
   </table>
 </form>
+</html>
  <center>
 <table border="1" cellpadding="2" cellspacing="4">
   <?php
