@@ -1,15 +1,8 @@
-<form>
-    <label for="firstname">First name: </label>
-    <input type="text" name="firstname"  required>
-    <br>
-    <label for="lastname">Last name: </label>
-    <input type="text" name="lastname"  required>
-    <br>
-    <label for="email">email: </label>
-    <input type="email" name="email"  required>
-    <br>
-    <label for="password">password: </label>
-    <input type="password" name="password"  required>
-    <br>
-    <input type="submit" value="Login!">
+<form action="proses.php" method="POST">
+ <select id="sel_id" name="sel_name"  onchange="this.form.submit();">
+<option value="0">Select</option>
+<option value="2">Honda</option> 
+<option value="3">Kawasaki</option> 
+<option value="4">Yamaha</option>                   
+</select>
 </form>
